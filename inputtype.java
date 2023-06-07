@@ -1,7 +1,7 @@
 import java.util.*;
 public class inputtype {
     public static void main(String[] args) {
-        try (//INPUT
+        //INPUT
         Scanner sc = new Scanner(System.in)) {
             //STORING INPUT
             String name = sc.nextLine();
